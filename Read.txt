@@ -1,0 +1,9 @@
+The goal of the project is to create a system that allows visually impaired individuals to access and use email without the need to see the computer screen or keyboard. This will be achieved through the use of text-to-speech and speech-to-text technology, which will allow users to interact with the email service through voice commands and hear the contents of their emails spoken back to them.
+
+To use the service, a visually impaired individual will first need to set up an email account and provide the service with the necessary login information. Once their account is set up, they can use voice commands to send and receive emails. For example, they might say "send email to John Smith" and then dictate the message they want to send, and the service will convert their words into text and send the email. Or, they could say "check for new emails" and the service will retrieve any new messages and read them back to the user.
+
+The service will also allow users to specify recipients, subject lines, and attachment using voice commands. For example, they might say "send email to John Smith with subject 'Meeting tomorrow' and attachment 'agenda.pdf'" and the service will create an email with the specified subject and attachment and send it to the specified recipient.
+
+To make the service user-friendly and easy to use, there will also be options for users to customize the voice and speaking speed of the text-to-speech synthesis. This will allow them to select a voice and speaking speed that is most comfortable for them to listen to.
+
+Overall, the voice-based email service will provide a convenient and accessible way for visually impaired individuals to communicate and access information through email. By using text-to-speech and speech-to-text technology, the service will allow them to send and receive emails and access other features of an email account without the need to see the computer screen or keyboard.
